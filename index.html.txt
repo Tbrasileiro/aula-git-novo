@@ -6,6 +6,6 @@
 			<h1> Versao 02 <h1>
 			<p> Apenas mais um site!!! </p>
 			<p> Agora com mais detalhes!!! </p>
-			<p> TIAGO BRASILEIRO </p>
+			<p> LÁZARO NÓBREGA FONSECA @Lazaro </p>
 		</body>
 		</html>
